@@ -1,0 +1,62 @@
+.main {
+    width:100%;
+    color:#8B8B8B;
+    font-size:1.5rem;
+    padding: 6rem 15rem;
+    display:flex;
+    flex-direction: row;
+    /*position: relative;*/
+    align-items: center;
+}
+/*.box {*/
+/*    display:flex;*/
+/*    flex-direction:row;*/
+/*    align-items: center;*/
+/*}*/
+.slogan {
+    color:#091156;
+    font-size:3rem;
+    font-weight:500;
+}
+.description {
+    margin:1rem 0;
+}
+.header {
+    color:#FF64AE;
+    font-size:1.5rem;
+    font-weight:500;
+}
+.btn {
+    font-weight: 600;
+    background:#FF64AE;
+    color:#fff;
+    border:none;
+    outline:none;
+    border-radius:10rem;
+    padding: 1.3rem 3rem;
+    font-size:1.6rem;
+    cursor:pointer;
+    margin-right: 3rem;
+}
+.box_btns {
+    margin-top:4rem;
+    display:flex;
+    /*justify-content:center;*/
+}
+.btn_second {
+    display:flex;
+    background:none;
+    border:none;
+    align-items:center;
+    font-size:1.5rem;
+    color:#8B8B8B;
+    cursor:pointer;
+}
+.playbtn {
+    width:4rem;
+    margin-right: 1rem;
+}
+.img {
+    width:90rem;
+   margin-top:3rem;
+}
